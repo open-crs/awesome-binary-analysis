@@ -1,0 +1,46 @@
+Name,URL,Description,Type,Topics
+Sci-Hub,https://sci-hub.se/,papers database,website,research
+Connected Papers,https://www.connectedpapers.com/,papers search engine and graphing tool,website,research
+LIEF,https://lief-project.github.io/doc/latest/index.html,"Python 3 library for processing, modifying, and abstracting executable file",library,executables parsing
+angr,https://angr.io/,Python 3 library for static and dynamic binary analysis,library,"disassembly, lifting, instrumentation, symbolic execution, control-flow analysis, data-dependency analysis, value-set analysis, decompilation, exploit generation"
+angr-management,https://github.com/angr/angr-management,GUI for the above-mentioned angr,tool,"disassembly, lifting, instrumentation, symbolic execution, control-flow analysis, data-dependency analysis, value-set analysis, decompilation"
+HaCRS,https://github.com/ucsb-seclab/hacrs,a human-assisted cyber reasoning system,tool,cyber reasoning system
+Mechanical Phish,https://github.com/mechaphish,GitHub organization containing the components of the Mechanical Phish cyber reasoning system ,tool,cyber reasoning system
+cb-multios,https://github.com/trailofbits/cb-multios,"dataset with the samples used in DARPA's Cyber Grand Challenge, migrated to multiple operating systems (Windows, Linux, MacOS)",dataset,vulnerability detection
+NIST's Juliet 1.3 Test Suite,https://github.com/arichardson/juliet-test-suite-c,dataset containing the samples of Juliet 1.3,dataset,vulnerability detection
+NIST's C Test Suite,https://github.com/CyberReasoningSystem/nist_c_test_suite,dataset containing the samples of C Test Suite,dataset,vulnerability detection
+PDF.js,https://github.com/mozilla/pdf.js/tree/master/test/pdfs,dataset containing PDFs used to test the Mozilla's in-browser reader,dataset,fuzzing
+Fuzzgoat,https://github.com/fuzzstati0n/fuzzgoat,vulnerable C program with several memory corruption bugs,dataset,vulnerability detection
+CWE Enumeration,https://cwe.mitre.org/data/definitions/699.html,weaknesses enumeration,enumeration,vulnerability detection
+Address Sanitizer,https://github.com/google/sanitizers/wiki/AddressSanitizer,a memory error detector for C/C++,tool,vulnerability detection
+retrowrite,https://github.com/HexHive/retrowrite,platform for instrumenting user-mode and kernel binaries with ASan and AFL,tool,"binary rewriting, static analysis, instrumentation"
+revng,https://github.com/revng/revng,static binary translator capable of instrumenting,tool,"binary rewriting, static analysis, instrumentation"
+Frida,https://frida.re/,"dynamic binary analysis framework for function hooking, tracing and scripting",tool,"dynamic analysis, instrumentation"
+Ghidra,https://github.com/NationalSecurityAgency/ghidra,reverse engineering tool,"tool, library",decompilation
+GhidraSnippets,https://github.com/HackOvert/GhidraSnippets,Python snippets for working with Ghidra API,code snippets,static analysis
+Awesome Fuzzing,https://github.com/secfigo/Awesome-Fuzzing,list with fuzzing resources,awesome,fuzzing
+AFL,https://github.com/google/AFL,(Now unmaintained) mutational fuzzer,tool,fuzzing
+AFLgo,https://github.com/aflgo/aflgo,AFL extension for directed fuzzing,tool,fuzzing
+AFLSmart,https://github.com/aflsmart/aflsmart,AFL extension that transforms it to a smart fuzzer by considering the input structure,tool,fuzzing
+AFLNet,https://github.com/aflnet/aflnet,AFL extension for fuzzing network fuzzer,tool,fuzzing
+AFL++,https://aflplus.plus/,fuzzer continuing AFL with additional features,"tool, library",fuzzing
+Honggfuzz,https://github.com/google/honggfuzz,"evolutionary, coverage-based fuzzer",tool,fuzzing
+Peach,https://github.com/MozillaSecurity/peach,generational fuzzer,tool,fuzzing
+boofuzz,https://github.com/jtpereyda/boofuzz,network fuzzer based on specifications,tool,fuzzing
+River,https://github.com/unibuc-cs/river,fuzzer using AI,tool,fuzzing
+go-fuzz-corpus,https://github.com/dvyukov/go-fuzz-corpus,corpus for fuzzing different file formats,dataset,fuzzing
+The Fuzzing Book,https://www.fuzzingbook.org/,book with practical examples related to fuzzing,"book, workshop",fuzzing
+Fuzzing with AFL,https://github.com/mykter/afl-training,AFL fuzzing workshop,workshop,fuzzing
+Manticore,https://github.com/trailofbits/manticore,symbolic execution tool,tool,"symbolic execution, instrumentation"
+Qiling Framework,https://github.com/qilingframework/qiling,"cross-platform, multi arch and QEMU-based lightweight emulator",library,"emulator, sandbox"
+BAP,https://github.com/BinaryAnalysisPlatform/bap,binary analysis platform,"tool, library","binary analysis, lifting, taint-analysis"
+(State of) The Art of War: Offensive Techniques in Binary Analysis,,angr's presentation,paper,exploit generation
+A Honeybug for Automated Cyber Reasoning Systems,,presentation of Rubeus and honeybugs as in Cyber Grand Challenge,publication,cyber reasoning system
+Approximating Attack Surfaces with Stack Traces,,identification of attack surface given a stack trace,paper,attack surface approximation
+Instrumentarea dinamica a binarelor pentru fuzzing în SASHA,,study case for binary instrumentation as in SASHA,study case,instrumentation
+Mayhem Solution Brief,,solution brief for Mayhem cyber reasoning system,brief,cyber reasoning system
+Practical Binary Analysis,,cookbook for homemade binary analysis,book,"binary analysis, loading, disassembly, instrumentation, taint analysis, symbolic execution"
+Rise of the HaCRS,,"description of a human-assisted cyber reasoning system, HaCRS",paper,cyber reasoning system
+Survey of Automated Vulnerability Detection and Exploit Generation Techniques in Cyber Reasoning Systems,,self-explanatory,paper,"vulnerability detection, exploit generation, cyber reasoning system"
+The Mayhem Cyber Reasoning System,,presentation of Mayhem as in Cyber Grand Challenge,publication,cyber reasoning system
+Xandra: An Autonomous Cyber Battle System for the Cyber Grand Challenge,,presentation of Xandra as in Cyber Grand Challenge,publication,cyber reasoning system
