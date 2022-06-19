@@ -4,8 +4,8 @@
 
 - [Description](#description)
 - [Labels Indexes](#labels-indexes)
-  - [By Type](#by-type)
-  - [By Purpose](#by-purpose)
+    - [By Type](#by-type)
+    - [By Purpose](#by-purpose)
 - [Resources](#resources)
 - [Contribution](#contribution)
 
@@ -15,7 +15,7 @@
 
 A **list of helpful binary analysis tools and research materials** can be found in this repository.
 
-All resources are alphabetically organized and labeled, making it simple to locate them simply searching one item from the index on the entire page (with `CTRL+F` in the raw representation of this file). The ones not having a link attached are present in the `documents/` folder.
+All resources are alphabetically organized and labeled, making it simple to locate them simply searching one item from the index on the entire page (with `CTRL+F`). The ones not having a link attached are present in the `documents/` folder.
 
 ## Labels Indexes
 
